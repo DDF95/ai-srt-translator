@@ -5,7 +5,7 @@ A Python script to translate `.srt` subtitle files using OpenAI's GPT-4o model.
 ```bash
 python3 translate_srt.py path/to/file.srt destination_language
 ```
-The translated `.srt` file will be saved in the same original fil's directorye.
+The translated `.srt` file will be saved in the same original file's directory.
 
 ## Requirements
 - Python 3.8+
